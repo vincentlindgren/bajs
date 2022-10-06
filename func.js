@@ -8,9 +8,6 @@ function main(x){
         return error;
     }
     return resourceId;
-<<<<<<< HEAD
-}
-=======
 }
 
 
@@ -25,4 +22,3 @@ function main(x){
 //     }
 //     return resourceId;
 // }
->>>>>>> 2f1365ac0841e2d17d0118cbdb7b63da81c6adfd
